@@ -9,6 +9,10 @@ S3 Vectors Client is a cross-platform desktop application that allows you to bro
 ## Demo
 
 
+https://github.com/user-attachments/assets/99e109c3-24dd-4791-a24a-bb5851861f47
+
+
+
 ## Features
 
 - **Multi-region Support**: Connect to different AWS regions and browse vector stores
